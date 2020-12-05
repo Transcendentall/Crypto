@@ -1,0 +1,5 @@
+C:\Users\Болычев Леонид\C++\TranslitTests\Debug\TranslitTests.vcxproj.CopyComplete
+C:\Users\Болычев Леонид\C++\TranslitTests\Debug\TranslitTests.exe
+C:\Users\Болычев Леонид\C++\TranslitTests\Debug\TranslitTests.pdb
+C:\Users\Болычев Леонид\C++\TranslitTests\Debug\gtest.pdb
+C:\Users\Болычев Леонид\C++\TranslitTests\Debug\gtest_main.pdb
